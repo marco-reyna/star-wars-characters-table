@@ -1,8 +1,6 @@
 # Star Wars Characters Table
 
-This is a one page app built in Vue 3 that displays a table with all the characters from Star Wars and their information as well as their home planet.
-You can sort by column and search any character's name.
-Clicking on any planet's name you can see their information.
+This is a one page app built in Vue 3 that displays a table with all the characters from Star Wars and their information as well as their home planet. You can sort by column and search any character's name. By clicking on any planet's name you can see their information.
 
 All tha data comes from [SWAPI](https://swapi.dev).
 
